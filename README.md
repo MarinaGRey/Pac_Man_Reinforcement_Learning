@@ -2,7 +2,7 @@
 
 Welcome to the repository for our Pac-Man autonomous agent projects! This repository contains two main practice folders: Practice_1 and Practice_2, each with their own set of files and objectives. 
 
-This project was awarded first place in the class competition of Machine Learning I at UC3M. In collaboration with Marina Gómez Rey ([GitHub Profile](https://github.com/MarinaGRey)). Note that only our code has been updated, not all class materials.
+This project was awarded first place in the class competition of Machine Learning I at UC3M. In collaboration with María Ángeles Magro Garrote ([GitHub Profile](https://github.com/mariamagro)). Note that only our code has been updated, not all class materials.
 
 ## Overview
 
