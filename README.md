@@ -1,10 +1,12 @@
 # Pac-Man Autonomous Agent Projects
 
-Welcome to the repository for our Pac-Man autonomous agent projects! This repository contains two main practice folders: Practice_1 and Practice_2, each with their own set of files and objectives. 
+Welcome to the repository for our Pac-Man autonomous agent projects! This repository contains two main practice folders:best_agent and reports.
 
 This project was awarded first place in the class competition of Machine Learning I at UC3M. In collaboration with María Ángeles Magro Garrote ([GitHub Profile](https://github.com/mariamagro)). Note that only our code has been updated, not all class materials.
 
 ## Overview
+
+We had two main projects to complete at class, one using classification and other using reinforcement, and then both results were compared to obtain the best agent.
 
 ### Project 1
 The aim of Project 1 was to develop an autonomous Pac-Man agent capable of efficiently playing the game and maximizing its score. This involved:
