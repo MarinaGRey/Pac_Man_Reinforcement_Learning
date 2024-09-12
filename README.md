@@ -1,6 +1,6 @@
 # Pac-Man Autonomous Agent Projects
 
-Welcome to the repository for our Pac-Man autonomous agent projects! This repository contains two main practice folders:best_agent and reports.
+Welcome to the repository for our Pac-Man autonomous agent projects! This repository contains two main practice folders: pacman_agent and reports.
 
 This project was awarded first place in the class competition of Machine Learning I at UC3M. In collaboration with María Ángeles Magro Garrote ([GitHub Profile](https://github.com/mariamagro)). Note that only our code has been updated, not all class materials.
 
@@ -33,7 +33,7 @@ This approach proved more effective than previous models, allowing Pac-Man to op
 
 This repository contains the following folders and files:
 
-### best_agent
+### pacman_agent
 - It contains all the necessary components to run the final pacman agent we created (note tht it is the reinforcement one). You can create a new Python project and upload the folder to run it through the terminal.
 
 ### reports
