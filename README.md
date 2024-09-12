@@ -31,14 +31,8 @@ This approach proved more effective than previous models, allowing Pac-Man to op
 
 This repository contains the following folders and files:
 
-### Practice_1
-- **different_models/**: Folder containing different model files.
-- **Practice 1.docx**: Document detailing the objectives, methods, and results of Project 1.
-- **bustersAgents.py**: Python script related to the Pac-Man agent for Project 1.
-- **dots_training.arff**: ARFF file used for training models in Project 1.
+### best_agent
+- It contains all the necessary components to run the final pacman agent we created (note tht it is the reinforcement one). You can create a new Python project and upload the folder to run it through the terminal.
 
-### Practice_2
-- **Practice 2.docx**: Document detailing the objectives, methods, and results of Project 2.
-- **bustersAgents.py**: Python script related to the Pac-Man agent for Project 2.
-- **qtable.txt**: File containing the Q-table used for Q-learning in Project 2.
-
+### reports
+- It contains the different reports made after each project, with the process and results obtained.
